@@ -3,7 +3,9 @@ build/bitbake-cookerdaemon.log
 build/bitbake.lock
 build/cache/
 build/tmp/
-    
+build/pn-buildlist
+build/task-depends.dot
+
 # Ignorer les fichiers générés par BitBake
 *.log
 *.lock
