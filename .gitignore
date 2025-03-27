@@ -1,0 +1,19 @@
+# Ignorer le dossier de build de Yocto
+build/bitbake-cookerdaemon.log
+build/bitbake.lock
+build/cache/
+build/tmp/
+    
+# Ignorer les fichiers générés par BitBake
+*.log
+*.lock
+*.done
+*.sigdata
+*.run
+
+# Ignorer les fichiers de compilation C/C++
+*.o
+*.a
+*.so
+*.bin
+*.elf
