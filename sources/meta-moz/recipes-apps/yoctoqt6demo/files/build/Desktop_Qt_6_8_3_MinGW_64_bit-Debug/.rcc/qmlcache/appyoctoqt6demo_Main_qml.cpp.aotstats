@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 9606,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 760,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 13
+                    }
+                ],
+                "filepath": "C:/Users/Hytega/OneDrive/Desktop/yoctoqt6demo/Main.qml"
+            }
+        ],
+        "moduleId": "yoctoqt6demo(appyoctoqt6demo)"
+    }
+]
