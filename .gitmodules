@@ -10,3 +10,9 @@
 [submodule "meta-raspberrypi"]
 	path = externals/meta-raspberrypi
 	url = https://github.com/agherzan/meta-raspberrypi.git
+[submodule "meta-qt6"]
+	path = meta-qt6
+	url = git://code.qt.io/yocto/meta-qt6.git
+[submodule "externals/meta-qt6"]
+	path = externals/meta-qt6
+	url = git://code.qt.io/yocto/meta-qt6.git
