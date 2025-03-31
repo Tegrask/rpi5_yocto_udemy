@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/yoctoqt6demo">
-    <file alias="qmldir">C:/Users/Hytega/OneDrive/Desktop/yoctoqt6demo/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/yoctoqt6demo/qmldir</file>
-  </qresource>
-</RCC>
-
