@@ -1,0 +1,5 @@
+module yoctoqt6demo
+typeinfo appyoctoqt6demo.qmltypes
+prefer :/qt/qml/yoctoqt6demo/
+Main 1.0 Main.qml
+
